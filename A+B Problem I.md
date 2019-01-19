@@ -10,11 +10,11 @@
 
 ## 输入格式
 
-第一行包含两个十进制整数，用空格分隔，分别表示$a$和$b$。
+第一行包含两个十进制整数，用空格分隔，分别表示<img src="https://latex.codecogs.com/gif.latex?a" title="a" />和<img src="https://latex.codecogs.com/gif.latex?b" title="b" />。
 
 ## 输出格式
 
-一行，包含一个十进制整数，即为$a+b$。
+一行，包含一个十进制整数，即为<img src="https://latex.codecogs.com/gif.latex?a+b" title="a+b" />。
 
 ## 样例
 
