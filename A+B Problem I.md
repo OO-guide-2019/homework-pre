@@ -31,8 +31,8 @@
 ### 约束信息
 
 * 保证所有输入的数合法，可以用一般的方式直接读入
-* 保证所有输入的数满足<img src="https://latex.codecogs.com/gif.latex?$-2^{32}&space;\leq&space;a,&space;b&space;\leq&space;2^{32}-1$" title="$-2^{32} \leq a, b \leq 2^{32}-1$" />
-* 不保证<img src="https://latex.codecogs.com/gif.latex?$a$" title="$a$" />、<img src="https://latex.codecogs.com/gif.latex?$b$" title="$b$" />之间仅包含一个空格
+* 保证所有输入的数满足<img src="https://latex.codecogs.com/gif.latex?-2^{32}&space;\leq&space;a,&space;b&space;\leq&space;2^{32}-1" title="-2^{32} \leq a, b \leq 2^{32}-1" />
+* 不保证<img src="https://latex.codecogs.com/gif.latex?a" title="a" />、<img src="https://latex.codecogs.com/gif.latex?b" title="b" />之间仅包含一个空格
 * 输出中请不要包含多余的正负号
 
 ### 需要先学习的技能
