@@ -10,13 +10,13 @@
 
 ## 输入格式
 
-第一行包含两个十进制整数，用空格分隔，分别表示$a$和$b$。
+第一行包含两个十进制整数，用空格分隔，分别表示<img src="https://latex.codecogs.com/gif.latex?a" title="a" />和<img src="https://latex.codecogs.com/gif.latex?b" title="b" />。
 
 对于
 
 ## 输出格式
 
-一行，包含一个十进制整数，即为$a+b$。
+一行，包含一个十进制整数，即为<img src="https://latex.codecogs.com/gif.latex?a+b" title="a+b" />。
 
 如果输入的数据不合法，则需要输出`WRONG FORMAT!`
 
@@ -38,8 +38,8 @@
   * 对于一个整数的合法性，判定标准定义为：对于一个整数，应该由一个或多个连续的`0`~`9`数字构成（允许任意数量的前导零），且数字开头可以包含一个正号（`+`）或者（`-`）。
   * 对于输入数据的行内，应当包含且仅包含两个合法的整数。
   * 如果输入数据违反了上述两条，则需要输出`WRONG FORMAT!`
-* 保证所有输入的合法整数满足$\left( -10^{100000}+1 \right) \leq a, b \leq \left( 10^{100000}-1\right)$
-* 不保证$a$、$b$之间仅包含一个空格
+* 保证所有输入的合法整数满足<img src="https://latex.codecogs.com/gif.latex?\left(&space;-10^{100000}&plus;1&space;\right)&space;\leq&space;a,&space;b&space;\leq&space;\left(&space;10^{100000}-1\right)" title="\left( -10^{100000}+1 \right) \leq a, b \leq \left( 10^{100000}-1\right)" />
+* 不保证<img src="https://latex.codecogs.com/gif.latex?a" title="a" />、<img src="https://latex.codecogs.com/gif.latex?b" title="b" />之间仅包含一个空格
 * 输出中请不要包含多余的正负号
 
 ### 需要先学习的技能
