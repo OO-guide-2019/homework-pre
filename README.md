@@ -8,6 +8,7 @@
 
 
 ## 作业内容说明
+正负号和加减号相连问题：https://github.com/OO-guide-2019/homework-pre/issues/2 （注：一定认真读完所有comment）
 
 
 如果有其他问题，请联系管理员邮箱niuyazhe@buaa.edu.cn
